@@ -1,0 +1,10 @@
+battleship1|3|1|battleship.gif
+battleship1v|1|3|battleshipv.gif
+carrier|4|1|carrier.gif
+carrierv|1|4|carrierv.gif
+patrol|2|1|patrol.gif
+patrolv|1|2|patrolv.gif
+seawolf|3|1|seawolf.gif
+seawolfv|1|3|seawolfv.gif
+battleship2|3|1|battleship.gif
+battleship2v|1|3|battleshipv.gif
